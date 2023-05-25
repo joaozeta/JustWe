@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">JustWe</string>
+    <string name="título_imagem1">Eu e ela depois do almoço</string>
+    <string name="descrição_imagem1">Buchin chei</string>
+    <string name="título_imagem2">Eu e ela dando beijinhos</string>
+    <string name="descrição_imagem2">Vários beijinhos</string>
+    <string name="título_imagem3">Ela não deixando eu dar um cheiro</string>
+    <string name="descrição_imagem3">Ruindade</string>
+    <string name="título_imagem4">Eu e ela tirando um cochilo</string>
+    <string name="descrição_imagem4">Ela roncando alto</string>
+    <string name="título_imagem5">Eu e ela no horto</string>
+    <string name="descrição_imagem5">Mais beijinhos</string>
+    <string name="título_imagem6">Ela vigiando os kiwi dela</string>
+    <string name="descrição_imagem6">Bichinha não quer dividir</string>
+    <string name="título_imagem7">Quando ela vai embora</string>
+    <string name="descrição_imagem7">Só tristeza</string>
 </resources>
